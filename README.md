@@ -2,4 +2,4 @@
 
 Hello, 
 
-I'm getting start to configure Prometheus!
+I'm getting start with GitHub!
